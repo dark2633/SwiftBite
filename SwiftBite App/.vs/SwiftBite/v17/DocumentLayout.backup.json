@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:frmbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|c:\\users\\rubik\\onedrive - kirklees college\\software dev\\project 4 - fmp\\3 - practical skills\\swiftbite - copy stable, current\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:frmbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmrestaurantselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:frmrestaurantselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmrestaurantselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:frmrestaurantselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmsubway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:frmsubway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmmcdonalds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:frmmcdonalds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmsubway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:frmsubway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmmcdonalds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:frmmcdonalds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EFDD5-03E6-4E97-9B30-4E2FAF2E4112}|SwiftBite.csproj|solutionrelative:frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\Globals.cs",
+              "RelativeDocumentMoniker": "Globals.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\Globals.cs",
+              "RelativeToolTip": "Globals.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAD4v1wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:35:15.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmHome.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmHome.cs",
+              "RelativeDocumentMoniker": "frmHome.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmHome.cs",
+              "RelativeToolTip": "frmHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:22:07.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmHome.cs",
+              "RelativeDocumentMoniker": "frmHome.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmHome.cs [Design]",
+              "RelativeToolTip": "frmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:41:02.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmRestaurantSelection.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmRestaurantSelection.cs",
+              "RelativeDocumentMoniker": "frmRestaurantSelection.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmRestaurantSelection.cs",
+              "RelativeToolTip": "frmRestaurantSelection.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIA7wEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:34:02.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmRestaurantSelection.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmRestaurantSelection.cs",
+              "RelativeDocumentMoniker": "frmRestaurantSelection.cs",
+              "ToolTip": "C:\\Users\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmRestaurantSelection.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmRestaurantSelection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:14:17.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAvwLYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:43:06.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmMcDonalds.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmMcDonalds.cs",
+              "RelativeDocumentMoniker": "frmMcDonalds.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmMcDonalds.cs",
+              "RelativeToolTip": "frmMcDonalds.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowFMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:19:20.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMcDonalds.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmMcDonalds.cs",
+              "RelativeDocumentMoniker": "frmMcDonalds.cs",
+              "ToolTip": "C:\\Users\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmMcDonalds.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmMcDonalds.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:18:44.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmSubway.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmSubway.cs",
+              "RelativeDocumentMoniker": "frmSubway.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmSubway.cs",
+              "RelativeToolTip": "frmSubway.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAWwFMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:10:46.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmSubway.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmSubway.cs",
+              "RelativeDocumentMoniker": "frmSubway.cs",
+              "ToolTip": "C:\\Users\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmSubway.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmSubway.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:09:35.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:42:56.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmSignup.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmSignup.cs",
+              "RelativeDocumentMoniker": "frmSignup.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmSignup.cs",
+              "RelativeToolTip": "frmSignup.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vxMAAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:56:29.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSignup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmSignup.cs",
+              "RelativeDocumentMoniker": "frmSignup.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmSignup.cs [Design]",
+              "RelativeToolTip": "frmSignup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:54:07.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBasket.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmBasket.cs",
+              "RelativeDocumentMoniker": "frmBasket.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmBasket.cs",
+              "RelativeToolTip": "frmBasket.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAqwNcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:58:21.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBasket.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmBasket.cs",
+              "RelativeDocumentMoniker": "frmBasket.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 4 - FMP\\3 - Practical Skills\\SwiftBite - Copy STABLE, CURRENT\\frmBasket.cs [Design]",
+              "RelativeToolTip": "frmBasket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:58:14.327Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
