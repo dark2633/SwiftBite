@@ -5,5 +5,3 @@ This is the final desktop application that I made as part of my Software Develop
 
 ### Description
 The app is made in C# and is a concept for a food delivery app called SwiftBite. Its primary features are to allow users to browse the menus of some of their favourite restaurants, and order items for delivery. The app also allows users to create an account, with their login details and orders being stored in a `.csv` file.
-
-[Demo Video](https://drive.google.com/file/d/1EIFBPGnIdQexWBrkDnKDF2-TVqad7XYq/view?usp=sharing)
